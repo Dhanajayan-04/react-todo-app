@@ -17,7 +17,7 @@ export function CreateTodo({addTodo}) {
     return (
     <div className="flex gap-6 w-full justify-center">
         <input 
-        className="bg-gray-700 py-2 px-4 rounded-xl outline-non"
+        className="bg-gray-700 py-2 px-4 rounded-xl outline-none"
         type="text" 
         placeholder="Add a task"
         value={title}
