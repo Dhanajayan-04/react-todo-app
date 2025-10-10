@@ -1,6 +1,6 @@
 # React Todo App
 
-![React Todo App Demo](https://github.com/Dhanajayan-04/react-todo-app/blob/main/images/Screenshot.png?raw=true)
+![React Todo App Demo](src/images/Screenshot.png)
 
 This project is part of my React learning journey, built as a beginner-level project to understand the fundamentals of React, components, state management, and props.
 
@@ -19,7 +19,7 @@ Styling was done using Tailwind CSS to maintain a clean, responsive, and modern 
 - Responsive design using Tailwind CSS  
 - Built with Vite for fast development and optimized builds
 
-## 🌐 Live Demo
+## Live Demo
 
 👉 [View Live Demo](https://dhanajayan-04.github.io/react-todo-app/)
 
