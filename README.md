@@ -1,6 +1,6 @@
 # React Todo App
 
-![React Todo App Demo](images/Screenshot.png)
+![React Todo App Demo](https://github.com/Dhanajayan-04/react-todo-app/blob/main/images/Screenshot.png?raw=true)
 
 This project is part of my React learning journey, built as a beginner-level project to understand the fundamentals of React, components, state management, and props.
 
@@ -12,18 +12,16 @@ Styling was done using Tailwind CSS to maintain a clean, responsive, and modern 
 
 ## Features
 
-- 📝 Add new todos with title and description  
-- ✅ Mark todos as completed  
-- 🗑️ Delete unwanted todos  
-- ✏️ Edit todo titles directly  
-- 🎨 Responsive design using Tailwind CSS  
-- ⚡ Built with Vite for fast development and optimized builds
+- Add new todos with title and description  
+- Mark todos as completed  
+- Delete unwanted todos  
+- Edit todo titles directly  
+- Responsive design using Tailwind CSS  
+- Built with Vite for fast development and optimized builds
 
 ## 🌐 Live Demo
 
 👉 [View Live Demo](https://dhanajayan-04.github.io/react-todo-app/)
-
----
 
 ## Usage
 
