@@ -9,6 +9,7 @@ This project is part of my React learning journey, built as a beginner-level pro
 The React Todo App is a simple and interactive task manager that allows users to add, update, mark as done, and delete todos.  
 It helped me understand React Hooks, component-based architecture, and props drilling.  
 Styling was done using Tailwind CSS to maintain a clean, responsive, and modern look.
+The project also improved my understanding of managing application state and handling user interactions in React.
 
 ## Features
 
